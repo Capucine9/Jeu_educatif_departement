@@ -1,0 +1,52 @@
+h1
+{
+  color: rgb(16,52,166);
+  background-color: rgb(255,155,0);
+  width: 430px;
+}
+
+h4
+{
+  color: rgb(255,0,0);
+}
+
+.land:hover
+{
+  fill: #ff2f11;
+}
+
+#nom
+{
+  width: 143px;
+}
+
+#depart
+{
+  position: absolute;
+  left: 0;
+}
+
+#score
+{
+  color: rgb(16,52,166);
+  background-color: rgb(255,155,0);
+}
+
+#indicediv1
+{
+  background-color: rgb(200,200,200);
+  color: rgb(0,0,0);
+  width: 295px;
+}
+#indicediv2
+{
+  background-color: rgb(200,200,200);
+  color: rgb(0,0,0);
+  width: 295px;
+}
+#indicediv3
+{
+  background-color: rgb(200,200,200);
+  color: rgb(0,0,0);
+  width: 295px;
+}
