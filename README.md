@@ -1,4 +1,4 @@
-# Jeu_éducatif_département
+# Jeu éducatif département
 
 Jeu éducatif permettant à tous d'apprendre ou réapprendre les départements français à partir de leur localisation ou encore de leur sous-préfecture.
 
